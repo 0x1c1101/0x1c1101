@@ -52,7 +52,7 @@
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=0x1c1101&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="0x1c1101" style="height: 30px; width: auto" />
+<img src="https://komarev.com/ghpvc/?username=0x1c1101&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="0x1c1101" style="height: 30px; width: auto" />
 
 <a href="https://discord.gg/GdYanwSCwm">
   <img src="https://img.shields.io/badge/Discord-7289da.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" style="height: 30px; width: auto"></a>
