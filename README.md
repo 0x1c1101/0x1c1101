@@ -60,13 +60,10 @@
 <a href="https://www.buymeacoffee.com/0x1c1101">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: auto; box-shadow: 0px 3px 2px 0px rgba(255, 255, 255, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(255, 255, 255, 0.5) !important;" ></a>
 
+
 </p>
 
----
-
-<h3 align='center'>GitHub Stats</h3>
-
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=0x1c1101&show_icons=true&theme=tokyonight" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=0x1c1101&show_icons=true&theme=tokyonight" />
 </p>
 
