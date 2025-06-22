@@ -37,6 +37,12 @@
 
 ---
 
+### My Projects:
+
+- C++ Assembler Library: https://github.com/0x1c1101/blazing_asm
+
+---
+
 <p align="center">
 
 <a href="https://www.buymeacoffee.com/0x1c1101">
