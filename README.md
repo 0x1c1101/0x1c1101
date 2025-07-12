@@ -33,15 +33,6 @@
 --] Currently working on binary obfuscation and game modding.
 ```
 
-<p align="center">
-
-<a href="https://malware.forum">
-<img src="https://img.shields.io/badge/malware.forum-FFFFFF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCI+PHBhdGggZD0iTTAgMGg0OHY0OEgwWm0xOSA1djFoMVY1Wm05IDB2MWgxVjVaTTE3IDZ2MWgtMXYxaC0xdjFoLTF2MmgtMXYxaC0xdjdoLTJ2MUg5djFIOHYxSDd2MUg2djFINXYzSDR2NWgxdi00aDF2LTFoMXYtMWgxdi0xaDF2LTFoM3YtMWgzdjFoLTJ2NWgxdjJoMXYyaDF2MWgydjFoMXYxaDF2LTFoMXYyaC0xdjFoLTF2MWgtMnYxaC03djFoMnYxaDl2LTFoMnYtMWgydjFoMnYxaDl2LTFoMnYtMWgtN3YtMWgtMnYtMWgtMXYtMWgtMXYtMmgxdjFoMXYtMWgxdi0xaDJ2LTFoMXYtMmgxdi0yaDF2LTVoLTJ2LTFoM3YxaDN2MWgxdjFoMXYxaDF2MWgxdjRoMXYtNWgtMXYtM2gtMXYtMWgtMXYtMWgtMXYtMWgtMXYtMWgtMXYtMWgtMnYtN2gtMXYtMWgtMVY5aC0xVjhoLTFWN2gtMVY2aC0ydjFoMXYxaDF2MWgxdjNoMXYzaC0xdjJoLTF2MmgtMXYtM2gtMnYtMWgtOHYxaC0ydjNoLTF2LTJoLTF2LTJoLTF2LTNoMVY5aDFWOGgxVjdoMVY2Wk05IDM5djFoMXYtMVptMjkgMHYxaDF2LTFaIi8+PHBhdGggZD0iTTIzIDIzaDJ2MWgxdjFoMXYyaDF2LTFoMXYtMWgxdi0xaDJ2NWgtMXYyaC0xdjFoLTJ2MWgtMXYxaC0xdi01aDF2LTFoLTF2LTFoLTF2MWgtMnYtMWgtMXYxaC0xdjFoMXY1aC0xdi0xaC0xdi0xaC0ydi0xaC0xdi0yaC0xdi01aDJ2MWgxdjFoMXYxaDF2LTJoMXYtMWgxWiIvPjwvc3ZnPg==&logoColor=white" style="height: 30px; width: auto"></a>
-
-<a href="https://revdiaries.com">
-<img src="https://img.shields.io/badge/revdiaries.com-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white" style="height: 30px; width: auto"></a>
-</p>
-
 </p>
 
 ---
@@ -49,6 +40,7 @@
 ### My Projects:
 
 - C++ Assembler Library: https://github.com/0x1c1101/blazing_asm
+- C++ WinAPI External Process Memory Module: https://github.com/0x1c1101/procmem
 
 <p align="left">
 
