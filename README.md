@@ -40,7 +40,7 @@
 ### My Projects:
 
 - C++ Assembler Library: https://github.com/0x1c1101/blazing_asm
-- C++ WinAPI External Process Memory Module: https://github.com/0x1c1101/procmem
+- C++ WinAPI External Process Management Module: https://github.com/0x1c1101/procmem
 
 <p align="left">
 
