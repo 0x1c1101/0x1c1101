@@ -43,9 +43,12 @@
 
 -->
 
+👋  Hiya, I am `heapsoverflow`. And certainly, *heaps do overflow*.
+
 ### My Projects:
 
 - C++ Assembler Library: https://github.com/0x1c1101/blazing_asm
+- IReDroid Infrared Fuzzer with Flipper Zero's IR database: https://github.com/0x1c1101/iredroid
 - C++ WinAPI External Process Management Module: https://github.com/0x1c1101/procmem
 
 <p align="left">
