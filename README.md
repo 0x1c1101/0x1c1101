@@ -29,11 +29,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡼⣿⣿⣾⣤⣠⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ----]  Hiya, I am `heapsoverflow`. And certainly, heaps do overflow.
-
---] Reverse Engineering Enthusiast.
---] Computer Science Major.
---] Open Source Advocate.
---] Currently working on binary obfuscation and game modding.
+------------]  You've found the hidden fortress.
 ```
 
 </p>
@@ -42,5 +38,3 @@
 ---
 
 -->
-
-nothing to see here
